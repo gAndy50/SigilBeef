@@ -1,0 +1,11 @@
+FileVersion = 1
+
+[Project]
+Name = "SigilBeef"
+TargetType = "BeefLib"
+StartupObject = "SigilBeef.Program"
+
+[[ProjectFolder.Items]]
+Type = "Folder"
+Path = "dist"
+AutoInclude = true
