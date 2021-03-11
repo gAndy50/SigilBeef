@@ -10,7 +10,7 @@ This is a wrapper of the Sigil library for the Beef programming language. You ca
 This software is provided as-is. There is no warranty for this software. You use this software at your own risk. You may not hold the author(s) responsible for anything that may occur when using this software. You may use this software to write your own programs and distribute them as you please. You may not claim you wrote the original wrapper. 
 
 #EXAMPLE
-```c
+```beef
 public static int Main(String[] args)
 		{
 			
