@@ -3,7 +3,7 @@ Wrapper of Sigil for Beef
 
 #ABOUT
 
-This is a wrapper of the Sigil library for the Beef programming language. You can use Sigil to create small games and for rapid prototyping. 
+This is a wrapper of the Sigil library for the Beef programming language. You can use Sigil to create small games and for rapid prototyping. You can find out more about Sigil under the Links section. 
 
 #LICENSE
 
@@ -32,3 +32,8 @@ public static int Main(String[] args)
 		}
 ```
 
+#LINKS
+
+[Sigil](http://www.libsigil.com/)
+[Paypal](paypal.me/IcyViking)
+[Patreon](https://www.patreon.com/CrazyVikingGamer)
