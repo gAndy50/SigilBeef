@@ -1,15 +1,15 @@
-# SigilBeef
+# SigilBeef:
 Wrapper of Sigil for Beef
 
-#ABOUT
+# ABOUT:
 
 This is a wrapper of the Sigil library for the Beef programming language. You can use Sigil to create small games and for rapid prototyping. You can find out more about Sigil under the Links section. 
 
-#LICENSE
+# LICENSE:
 
 This software is provided as-is. There is no warranty for this software. You use this software at your own risk. You may not hold the author(s) responsible for anything that may occur when using this software. You may use this software to write your own programs and distribute them as you please. You may not claim you wrote the original wrapper. 
 
-#EXAMPLE
+# EXAMPLE:
 ```beef
 public static int Main(String[] args)
 		{
@@ -32,7 +32,7 @@ public static int Main(String[] args)
 		}
 ```
 
-#LINKS
+# LINKS:
 
 [Sigil](http://www.libsigil.com/)
 
