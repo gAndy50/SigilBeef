@@ -35,5 +35,7 @@ public static int Main(String[] args)
 #LINKS
 
 [Sigil](http://www.libsigil.com/)
+
 [Paypal](paypal.me/IcyViking)
+
 [Patreon](https://www.patreon.com/CrazyVikingGamer)
