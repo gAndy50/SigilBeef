@@ -3,7 +3,7 @@ Written By Andy P.
 Icy Viking Games
 Sigil: 0.9.0
 Beef: 0.43.0 
-Copyright (c) 2021*/
+Copyright (c) 2022*/
 
 using System;
 using System.Interop;
